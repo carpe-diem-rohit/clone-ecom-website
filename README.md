@@ -68,7 +68,7 @@ As I continue learning web development, I can improve this project by adding fea
 
 * Responsive design for mobile and tablet devices
 * Product search and filtering
-* Product details pages
+* Product detail pages
 * Shopping cart functionality
 * User authentication
 * Wishlist functionality
